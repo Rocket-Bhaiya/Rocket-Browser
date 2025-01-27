@@ -1,7 +1,11 @@
 # Rocket Browser
 
 Rocket Browser is a simple web browser built using GTK and WebKit2GTK. It provides basic browsing features like back, forward, search, home, and supports loading local servers running on `localhost` with specified ports.
-
+## Updated Features
+- **New Tab**: Users can open new tabs within the same browser window.
+- **Close Tab**: Users can close tabs individually.
+- **Switch Tabs**: Users can switch between open tabs seamlessly.
+  
 ## Features
 
 - **Navigation**: Supports forward, backward navigation using buttons.
